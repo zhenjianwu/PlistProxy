@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+                    <!-- 替换自己的ipa地址 -->
+					<string>https://192.168.137.15/t19_alpha_t19_19_0_x3dgame_full_debug.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+                <!-- 修改BundleId -->
+				<string>com.qdazzle.x3dgame.t19</string>
+				<key>bundle-version</key>
+                <!-- 修改实际版本号 -->
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+                <!-- 弹窗标题 可加一些提示 不宜太长 -->
+				<string>xxx(如果安装失败:卸载旧版本,或者请到开发人员处添加UDID)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
