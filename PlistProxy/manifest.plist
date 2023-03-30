@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
                     <!-- 替换自己的ipa地址 -->
-					<string>https://192.168.137.15/t19_alpha_t19_19_0_x3dgame_full_debug.ipa</string>
+					<string>http://192.168.137.15/t19_alpha_t19_19_0_x3dgame_full_debug.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
